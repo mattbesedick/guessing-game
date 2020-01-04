@@ -43,6 +43,7 @@ function getAHint(answer) {
 		numbersCloseToAnswer.push(number);
 	}
 	console.log(numbersCloseToAnswer);
+	console.log(answer);
 }
 
 function rightAnswer(input) {}
